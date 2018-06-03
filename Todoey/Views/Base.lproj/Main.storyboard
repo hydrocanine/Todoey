@@ -33,7 +33,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Todoey" id="1xR-OF-TcY">
-                        <barButtonItem key="rightBarButtonItem" title="+" id="vdE-Dh-HJp">
+                        <barButtonItem key="rightBarButtonItem" title="item" id="vdE-Dh-HJp">
                             <color key="tintColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
                                 <action selector="addButtonPressed:" destination="ClC-g5-6ZM" id="1Jl-rL-4ag"/>
